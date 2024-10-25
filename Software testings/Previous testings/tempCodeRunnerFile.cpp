@@ -1,0 +1,2 @@
+
+    char command = commands[i];
